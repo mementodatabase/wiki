@@ -4,7 +4,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   title: 'Memento Database Wiki',
   description: 'Documentation for Memento Database',
-  base: '/wiki/',
+  base: '/',
 
   themeConfig: {
     logo: '/logo.png',
