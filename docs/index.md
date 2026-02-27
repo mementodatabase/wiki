@@ -5,10 +5,6 @@ hero:
   name: "Memento Database"
   text: "Wiki Archive"
   tagline: Archived community wiki for Memento Database — a powerful database app for Android, iOS and Desktop
-  actions:
-    - theme: brand
-      text: View on GitHub
-      link: https://github.com/mementodatabase
 
 features:
   - title: Fields
